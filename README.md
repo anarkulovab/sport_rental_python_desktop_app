@@ -82,7 +82,7 @@ sport-rental/
 ## Как запустить
 Клонируйте репозиторий:
 ```
-git clone https://github.com/anarkulovab/sport_rental_python_.git
+git clone https://github.com/anarkulovab/sport_rental_python_desktop_app.git
 cd sport-rental-python_desktop_app
 ```
 
